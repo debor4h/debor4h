@@ -1,4 +1,4 @@
-## Olá DEVS ☕, eu sou a Deborah !
+## Olá DEVS ☕, eu sou a Deborah!
 
 
 <div align="center">
